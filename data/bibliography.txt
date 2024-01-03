@@ -1,0 +1,5 @@
+where i got the permissions:
+https://gist.github.com/Watsonboy1989/fa01a6869d82062c770e137107693744#list-index
+
+where i got the permission levels:
+https://medium.com/@huseyinozkoc/android-permissions-protection-levels-600c0e5f908d

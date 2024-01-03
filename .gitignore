@@ -162,10 +162,8 @@ cython_debug/
 
 .DS_Store
 
-google_data_last.csv
-google_data_first.csv
+data/google_data_last.csv
+data/google_data_first.csv
 ttest.ipynb
-
-data/
 
 
